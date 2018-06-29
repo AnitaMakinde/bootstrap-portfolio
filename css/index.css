@@ -1,0 +1,20 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #AABBCC;
+}
+
+.navbar-default {
+  background-color: #FFCD33;
+  border-color: #FFCD33;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFF;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+}
